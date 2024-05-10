@@ -1,4 +1,4 @@
-![image](https://github.com/prasanna2006I/ChatStudy/assets/150161282/714b2aad-1ed0-46e3-a45a-17c7b4002390)![image](https://github.com/prasanna2006I/ChatStudy/assets/150161282/a4fdd2e7-afe8-4c94-ac1a-85aea4804dab)![image](https://github.com/prasanna2006I/ChatStudy/assets/150161282/5517b6a7-d162-44cf-927d-c148c4b50439)# Ex. No:1b 			Study of Client Server Chat Applications
+# Ex. No:1b 			Study of Client Server Chat Applications
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
