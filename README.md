@@ -1,4 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+# NAME:PRASANNA I
+# REG NO:212223220079
 ## Aim:  
 To perform a study on Client Server Chat Applications
 ## Introduction:
